@@ -10,4 +10,4 @@
   <li><strong>Generative AI</strong>: A Generative Adversarial Network (GAN) for generating new data samples. This project demonstrates how generative models can create new images, text, or even sound based on training data.</li>
 </ul>
 
-<p>Each project folder contains code, datasets, and explanations, providing an in-depth look at how these advanced ML models are structured and implemented.</p>
+<p>Each project folder contains code, and datasets providing an in-depth look at how these advanced ML models are structured and implemented.</p>
